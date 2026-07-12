@@ -1,4 +1,4 @@
-🇧🇷
+##🇧🇷
 
 Transformo **dados em decisões estratégicas**. 15+ anos em sistemas financeiros corporativos, agora especializado em análise de dados.
 
@@ -10,7 +10,7 @@ Transformo **dados em decisões estratégicas**. 15+ anos em sistemas financeiro
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 
 
 I transform **data into strategic decisions**. 15+ years in corporate financial systems, now specialized in data analytics.
 
@@ -22,7 +22,7 @@ I transform **data into strategic decisions**. 15+ years in corporate financial 
 
 ---
 
-## 🇪🇸 Español
+## 🇪🇸 
 
 Transformo **datos en decisiones estratégicas**. 15+ años en sistemas financieros corporativos, ahora especializado en análisis de datos.
 
