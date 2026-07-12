@@ -1,0 +1,30 @@
+<svg width="1000" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', monospace; }
+      .title { font-size: 32px; font-weight: bold; fill: #c9a84c; }
+      .subtitle { font-size: 16px; fill: #e0e0e0; }
+      .ascii { font-size: 12px; fill: #58a6ff; letter-spacing: 2px; line-height: 1.2; }
+      .bg { fill: #0d1117; }
+    </style>
+  </defs>
+  
+  <rect class="bg" width="1000" height="400"/>
+  
+  <!-- ASCII Art Profile Drawing -->
+  <text x="50" y="80" class="ascii">
+    <tspan x="50" dy="14">    ╔═══════════════════════╗</tspan>
+    <tspan x="50" dy="14">    ║                       ║</tspan>
+    <tspan x="50" dy="14">    ║      ○ ◡ ○            ║</tspan>
+    <tspan x="50" dy="14">    ║      ◡   ◡             ║</tspan>
+    <tspan x="50" dy="14">    ║                       ║</tspan>
+    <tspan x="50" dy="14">    ║   ERIC RENATO        ║</tspan>
+    <tspan x="50" dy="14">    ║                       ║</tspan>
+    <tspan x="50" dy="14">    ╚═══════════════════════╝</tspan>
+  </text>
+  
+  <!-- Title and Info -->
+  <text x="350" y="60" class="title">Eric Renato</text>
+  <text x="350" y="100" class="subtitle">Data Analyst | Financial Systems | BI</text>
+  <text x="350" y="130" class="subtitle">15+ years • Python • SQL • JavaScript</text>
+</svg>
