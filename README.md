@@ -1,4 +1,4 @@
-## 🇧🇷 Português
+🇧🇷 = Portugal/Brasil: &flag-br
 
 Transformo **dados em decisões estratégicas**. 15+ anos em sistemas financeiros corporativos, agora especializado em análise de dados.
 
