@@ -1,6 +1,4 @@
-<img src="https://githubusercontent.com" width="30" alt="Bandeira do Brasil">
-
-
+🇧🇷
 
 Transformo **dados em decisões estratégicas**. 15+ anos em sistemas financeiros corporativos, agora especializado em análise de dados.
 
