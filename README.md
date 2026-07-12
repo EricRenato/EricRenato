@@ -1,30 +1,44 @@
-   ╔════════════╗
-   ║ ERIC       ║     > ERIC RENATO
-   ║ RENATO     ║     > DATA ANALYST
-   ║ Data       ║     > 15+ YEARS
-   ║ Analyst    ║
-   ╚════════════╝
+## 🇧🇷 Português
+
+Transformo **dados em decisões estratégicas**. 15+ anos em sistemas financeiros corporativos, agora especializado em análise de dados.
+
+- 📊 Data Analytics & BI
+- 💼 Financial Systems (Oracle SQL)
+- 🐍 Python | JavaScript | Excel
+
+→ [Portfólio completo](https://ericrenato.github.io)
 
 ---
 
-🇧🇷
-Transformo dados em decisões. Sistemas financeiros corporativos.
-📊 Analytics & BI  |  💼 Oracle SQL  |  🐍 Python • JS • Excel
-[→ PORTFOLIO](https://ericrenato.github.io)
+## 🇺🇸 English
 
-🇺🇸
-I transform data into decisions. Corporate financial systems.
-📊 Analytics & BI  |  💼 Oracle SQL  |  🐍 Python • JS • Excel
-[→ PORTFOLIO](https://ericrenato.github.io)
+I transform **data into strategic decisions**. 15+ years in corporate financial systems, now specialized in data analytics.
 
-🇪🇸
-Transformo datos en decisiones. Sistemas financieros corporativos.
-📊 Analytics & BI  |  💼 Oracle SQL  |  🐍 Python • JS • Excel
-[→ PORTFOLIO](https://ericrenato.github.io)
+- 📊 Data Analytics & BI
+- 💼 Financial Systems (Oracle SQL)
+- 🐍 Python | JavaScript | Excel
+
+→ [Full portfolio](https://ericrenato.github.io)
 
 ---
 
-[LINKEDIN](https://www.linkedin.com/in/eric-renato-da-silva)  •  [GITHUB](https://github.com/EricRenato)  •  [PORTFOLIO](https://ericrenato.github.io)
+## 🇪🇸 Español
+
+Transformo **datos en decisiones estratégicas**. 15+ años en sistemas financieros corporativos, ahora especializado en análisis de datos.
+
+- 📊 Data Analytics & BI
+- 💼 Sistemas Financieros (Oracle SQL)
+- 🐍 Python | JavaScript | Excel
+
+→ [Portafolio completo](https://ericrenato.github.io)
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-renato-da-silva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=flat&logo=globe&logoColor=white)](https://ericrenato.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/EricRenato)
 
 
         -++---------------.+-+++++++++-----.-..  .                           .......      .....................         
