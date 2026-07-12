@@ -1,4 +1,4 @@
-##🇧🇷
+##  🇧🇷
 
 Sou Eric Renato, profissional de Tecnologia desde 2005, com mais de 14 anos de experiência na convergência entre Finanças, Sistemas e Análise de Dados.
 
