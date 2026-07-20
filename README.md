@@ -1,6 +1,6 @@
 ##  🇧🇷
 
-Sou Eric Renato, profissional de Tecnologia desde 2005, com mais de 14 anos de experiência na convergência entre Finanças, Sistemas e Análise de Dados.
+Sou Eric Renato, profissional de Tecnologia desde 2005, com mais de 15 anos de experiência na convergência entre Finanças, Sistemas e Análise de Dados.
 
 Grande parte do meu trabalho consiste em investigar problemas, conectar informações e transformar dados em conhecimento para apoiar fechamentos financeiros e contábeis, reconciliações, rastreabilidade, qualidade dos dados e tomada de decisão.
 
@@ -18,7 +18,7 @@ Seja bem-vindo e fique à vontade para explorar os projetos.
 
 Hello, welcome!
 
-I am Eric Renato, Technology professional since 2005, with over 14 years of experience at the convergence of Finance, Systems and Data Analysis.
+I am Eric Renato, Technology professional since 2005, with over 15 years of experience at the convergence of Finance, Systems and Data Analysis.
 
 Much of my work consists of investigating problems, connecting information and transforming data into knowledge to support financial and accounting closures, reconciliations, traceability, data quality and decision-making.
 
@@ -32,7 +32,7 @@ I am currently expanding this experience through the MBA in Data Science, AI & A
 
 ¡Hola, bienvenido!
 
-Soy Eric Renato, profesional de Tecnología desde 2005, con más de 14 años de experiencia en la convergencia entre Finanzas, Sistemas y Análisis de Datos.
+Soy Eric Renato, profesional de Tecnología desde 2005, con más de 15 años de experiencia en la convergencia entre Finanzas, Sistemas y Análisis de Datos.
 
 Gran parte de mi trabajo consiste en investigar problemas, conectar información y transformar datos en conocimiento para apoyar cierres financieros y contables, reconciliaciones, trazabilidad, calidad de datos y toma de decisiones.
 
