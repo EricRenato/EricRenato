@@ -1,3 +1,82 @@
+<div align="center">
+  <img
+    src="./assets/profile-info.svg"
+    alt="Eric Renato — Finance, Systems and Data Analysis"
+    width="920"
+  />
+</div>
+
+<br />
+
+<details open>
+  <summary><b>🇧🇷 Português</b></summary>
+
+<br />
+
+Sou **Eric Renato**, profissional de Tecnologia desde 2005, com mais de 15 anos de experiência na convergência entre **Finanças, Sistemas e Análise de Dados**.
+
+Grande parte do meu trabalho consiste em investigar problemas, conectar informações e transformar dados em conhecimento para apoiar fechamentos financeiros e contábeis, reconciliações, rastreabilidade, qualidade dos dados e tomada de decisão.
+
+Atualmente estou expandindo essa experiência por meio do **MBA em Data Science, AI & Analytics (USP/ESALQ)** e da certificação **Google Data Analytics Professional Certificate**, aprofundando meus conhecimentos em SQL, Python, Estatística, Business Analytics, Inteligência Artificial e automação de processos.
+
+🌐 [ericrenato.github.io](https://ericrenato.github.io/)
+
+Seja bem-vindo e fique à vontade para explorar os projetos.
+
+</details>
+
+<details>
+  <summary><b>🇺🇸 English</b></summary>
+
+<br />
+
+Hello, welcome!
+
+I am **Eric Renato**, a Technology professional since 2005, with over 15 years of experience at the convergence of **Finance, Systems and Data Analysis**.
+
+Much of my work consists of investigating problems, connecting information and transforming data into knowledge to support financial and accounting closures, reconciliations, traceability, data quality and decision-making.
+
+I am currently expanding this experience through the **MBA in Data Science, AI & Analytics (USP/ESALQ)** and the **Google Data Analytics Professional Certificate**, deepening my knowledge in SQL, Python, Statistics, Business Analytics, Artificial Intelligence and process automation.
+
+🌐 [ericrenato.github.io](https://ericrenato.github.io/)
+
+</details>
+
+<details>
+  <summary><b>🇪🇸 Español</b></summary>
+
+<br />
+
+¡Hola, bienvenido!
+
+Soy **Eric Renato**, profesional de Tecnología desde 2005, con más de 15 años de experiencia en la convergencia entre **Finanzas, Sistemas y Análisis de Datos**.
+
+Gran parte de mi trabajo consiste en investigar problemas, conectar información y transformar datos en conocimiento para apoyar cierres financieros y contables, reconciliaciones, trazabilidad, calidad de datos y toma de decisiones.
+
+Actualmente estoy expandiendo esta experiencia a través del **MBA en Data Science, AI & Analytics (USP/ESALQ)** y la certificación **Google Data Analytics Professional Certificate**, profundizando mis conocimientos en SQL, Python, Estadística, Business Analytics, Inteligencia Artificial y automatización de procesos.
+
+🌐 [ericrenato.github.io](https://ericrenato.github.io/)
+
+</details>
+
+---
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ericrenato&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrenato&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</div>
+
+
+
+
 ##  🇧🇷
 
 Sou Eric Renato, profissional de Tecnologia desde 2005, com mais de 15 anos de experiência na convergência entre Finanças, Sistemas e Análise de Dados.
