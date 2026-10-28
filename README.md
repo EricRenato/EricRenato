@@ -16,6 +16,7 @@ Local AI...............Qwen 2.5 3B Instruct • Ollama • GGUF
 Education..............MBA – Data Science - USP/ESALQ
 Certification..........Google Data Analytics
 Mission................Turning financial data into decisions
+T-1000.................https://github.com/EricRenato/Database_Guardians_T-1000
 
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
